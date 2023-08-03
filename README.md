@@ -4,8 +4,6 @@ Tuhan.org is currently drafting a new religion for humanity on planet Earth. It 
 ## Core Values
 This new religion draft hopes to bring people of different cultures and religions together, offering a harmonious space for finding common ground and unity.
 
-<img src="https://tuhan.org/wp-content/uploads/2022/12/integrity.svg" width="40px">
-
 ### Integrity
 Honesty, fairness, and a commitment to doing the right thing.
 
