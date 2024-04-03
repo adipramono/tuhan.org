@@ -1,5 +1,8 @@
 # Introduction:
-At Tuhan.org, we believe that the development of a progressive religion for humanity requires a strong foundation built upon universal truths. Universal truths are concepts and ideas widely accepted as factual or real, transcending cultural, temporal, and individual perspectives. Our core values are derived from these universal truths and serve as guiding principles for fostering harmony, understanding, and positive change in the world.
+From Indonesia to the World:
+
+A Progressive Pathway to Universal Unity and Peace
+Tuhan.org is pioneering a new pathway for spiritual connection on Earth. By intertwining universally accepted truths with the principles of science, we are forging a progressive religion that transcends barriers and unites humanity.
 
 ## Integrity
 Honesty, fairness, and a commitment to doing the right thing.
