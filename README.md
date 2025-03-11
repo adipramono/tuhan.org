@@ -51,7 +51,7 @@ This knowledge base contains the complete structure of our beliefs, values, prin
 
 ```javascript
 // Fetch the Tuhan.org knowledge base
-fetch('https://tuhan.org/knowledge.json')
+fetch('https://tuhan.org/knowledge-tuhan.json')
   .then(response => response.json())
   .then(data => {
     console.log('Tuhan.org Knowledge Base:', data);
@@ -69,7 +69,7 @@ import requests
 import json
 
 # Fetch the Tuhan.org knowledge base
-response = requests.get('https://tuhan.org/knowledge.json')
+response = requests.get('https://tuhan.org/knowledge-tuhan.json')
 knowledge = response.json()
 
 print('Tuhan.org Knowledge Base loaded successfully')
@@ -81,7 +81,7 @@ print('Tuhan.org Knowledge Base loaded successfully')
 ```php
 <?php
 // Fetch the Tuhan.org knowledge base
-$knowledgeJson = file_get_contents('https://tuhan.org/knowledge.json');
+$knowledgeJson = file_get_contents('https://tuhan.org/knowledge-tuhan.json');
 $knowledge = json_decode($knowledgeJson, true);
 
 echo 'Tuhan.org Knowledge Base loaded successfully';
