@@ -40,7 +40,7 @@ Universal truths are fundamental and unchanging, and they may be based on scient
 The official Tuhan.org knowledge base is available in JSON format and can be downloaded from our website:
 
 ```
-https://tuhan.org/knowledge.json
+https://tuhan.org/knowledge-tuhan.json
 ```
 
 This knowledge base contains the complete structure of our beliefs, values, principles, and practices. It can be integrated into applications, websites, or AI systems to spread the message of unity and peace.
