@@ -1,93 +1,17 @@
-# Tuhan.org
+Tuhan.org adalah sebuah gerakan spiritual yang berasal dari Indonesia dengan semboyan "Dari Indonesia untuk Dunia". Gerakan ini menawarkan jalan progresif untuk mencapai persatuan dan perdamaian universal bagi seluruh umat manusia.
 
-> From Indonesia to the World: A Progressive Pathway to Universal Unity and Peace
+Misi utama Tuhan.org adalah merintis cara baru bagi manusia untuk terhubung secara spiritual. Caranya adalah dengan menggabungkan kebenaran-kebenaran yang diterima secara umum di seluruh dunia dengan prinsip-prinsip ilmu pengetahuan. Dari perpaduan ini, diharapkan lahir sebuah agama yang terus berkembang, mampu mengatasi berbagai perbedaan, dan pada akhirnya menyatukan kita semua.
 
-## About
+Inti dari ajaran Tuhan.org adalah konsep "Kebenaran Universal". Ini adalah gagasan atau ide yang dianggap benar oleh sebagian besar orang, tidak peduli apa latar belakang budaya atau keyakinan pribadinya. Kebenaran ini bisa datang dari penemuan ilmiah maupun nilai-nilai moral yang sudah lama dipegang teguh. Tujuannya adalah menyatukan orang-orang dari berbagai budaya dan agama, menyediakan ruang yang harmonis untuk menemukan kesamaan dan persatuan.
 
-Tuhan.org is pioneering a new pathway for spiritual connection on Earth. By intertwining universally accepted truths with the principles of science, we are forging a progressive religion that transcends barriers and unites humanity.
+Untuk mencapai tujuannya, Tuhan.org menekankan beberapa nilai inti seperti integritas (jujur dan berbuat benar), hormat (memperlakukan orang lain dengan baik), tanggung jawab (atas tindakan sendiri), kolaborasi (bekerja sama dan menghargai perbedaan pendapat), keberagaman (menerima perbedaan), dan komunitas (berkontribusi positif kepada masyarakat).
 
-Founded in 2023 by Adi Pramono, Tuhan.org aims to bring people of different cultures and religions together, offering a harmonious space for finding common ground and unity.
+Ada tiga praktik utama yang dianjurkan:
+1.  Meditasi: Dilakukan setiap hari untuk membantu seseorang terhubung dengan kebenaran universal dan menemukan kedamaian dalam diri.
+2.  Belajar: Terus menerus mencari ilmu dan pemahaman, terutama dalam bidang sains, filsafat, etika, dan studi budaya.
+3.  Pelayanan Masyarakat: Terlibat aktif dalam kegiatan sosial yang positif untuk membantu sesama dan lingkungan, sebagai wujud nyata dari nilai kebersamaan.
 
-## Core Values
-
-Our religion is built upon nine fundamental core values:
-
-- **Integrity**: Honesty, fairness, and a commitment to doing the right thing.
-- **Respect**: Treating others with kindness, empathy, and consideration.
-- **Responsibility**: Being accountable for your actions and taking ownership of your work.
-- **Excellence**: Commitment to quality and a desire to continually improve.
-- **Innovation**: Willingness to think creatively and embrace new factual knowledge and ideas.
-- **Collaboration**: Working well with others and valuing diverse perspectives.
-- **Diversity**: Embracing differences and fostering a culture of inclusion.
-- **Sustainability**: Being mindful of the impact of actions on the environment to protect natural resources.
-- **Community**: Commitment to making a positive impact in the world and giving back to others.
-
-## Universal Truth
-
-A universal truth is a concept or idea that is believed to be true or accepted as true by the majority of people. It is something that is widely accepted as being factual or real, regardless of culture, time period, or individual perspective.
-
-Some examples of universal truths include:
-
-- The laws of physics
-- The existence of gravity
-- The fact that the earth orbits the sun
-- Moral principles like "it is wrong to harm others"
-
-Universal truths are fundamental and unchanging, and they may be based on scientific evidence or long-held cultural or moral beliefs.
-
-## Download Knowledge
-
-The official Tuhan.org knowledge base is available in JSON format and can be downloaded from our website:
-
-```
-https://tuhan.org/knowledge-tuhan.json
-```
-
-This knowledge base contains the complete structure of our beliefs, values, principles, and practices. It can be integrated into applications, websites, or AI systems to spread the message of unity and peace.
-
-## Integration Examples
-
-### JavaScript
-
-```javascript
-// Fetch the Tuhan.org knowledge base
-fetch('https://tuhan.org/knowledge-tuhan.json')
-  .then(response => response.json())
-  .then(data => {
-    console.log('Tuhan.org Knowledge Base:', data);
-    // Use the knowledge in your application
-  })
-  .catch(error => {
-    console.error('Error fetching Tuhan.org knowledge:', error);
-  });
-```
-
-### Python
-
-```python
-import requests
-import json
-
-# Fetch the Tuhan.org knowledge base
-response = requests.get('https://tuhan.org/knowledge-tuhan.json')
-knowledge = response.json()
-
-print('Tuhan.org Knowledge Base loaded successfully')
-# Use the knowledge in your application
-```
-
-### PHP
-
-```php
-<?php
-// Fetch the Tuhan.org knowledge base
-$knowledgeJson = file_get_contents('https://tuhan.org/knowledge-tuhan.json');
-$knowledge = json_decode($knowledgeJson, true);
-
-echo 'Tuhan.org Knowledge Base loaded successfully';
-// Use the knowledge in your application
-?>
-```
+Singkatnya, Tuhan.org, yang didirikan oleh Adi Pramono pada tahun 2023 dengan motto "Cari Kebijaksanaan, Temukan Kedamaian," bertujuan untuk menjadi wadah spiritual baru yang menyatukan umat manusia melalui pemahaman akan kebenaran universal dan penerapan nilai-nilai luhur dalam kehidupan sehari-hari.
 
 ## Contributing
 
